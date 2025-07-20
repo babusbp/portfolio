@@ -3,11 +3,33 @@
 
 Hello! I'm Babuprasad 🤓, a Power BI developer a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
-
 <!--Mention your top/relevant skills here - core and soft skills-->
+| Category          | Skills & Tools                                |
+| ----------------- | --------------------------------------------- |
+| **BI Tools**      | Power BI Desktop, Power BI Service            |
+| **Languages**     | DAX, M (Power Query), SQL, Excel (advanced)   |
+| **Data Skills**   | Data Cleaning, ETL, Modeling, KPI Tracking    |
+| **Visualization** | UX/UI Design, Drill-Through, Tooltips         |
+
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+Hello! I’m QQQ, a Power BI Developer with a strong focus on turning complex data into clear, actionable insights through interactive dashboards and reports. I specialize in designing end-to-end BI solutions that support informed business decisions across various domains.
+
+Hello! I’m QQQ, an intermediate-level Power BI Developer with practical experience in building interactive dashboards and data models for sales and procurement analytics. I specialize in transforming complex datasets into actionable insights using Power BI, Advanced Excel, and MS SQL. My focus is on creating clean, well-structured reports that help teams make smarter, data-driven decisions.
+
+I focus on delivering data-driven solutions using modern BI tools—especially Power BI. Here’s what I bring to the table:
+
+✅ Interactive Dashboards – Design intuitive dashboards tailored to decision-makers.
+
+✅ Data Cleaning & Transformation – Use Power Query (M) to wrangle and reshape raw datasets.
+
+✅ Data Modeling – Apply star-schema models and create robust relationships for performance and clarity.
+
+✅ DAX Mastery – Write custom measures and KPIs for in-depth analysis.
+
+✅ Insightful Storytelling – Highlight the “so what?” behind the data with clean narratives.
+
+✅ Automation & Refresh – Configure data gateways and scheduled refresh in Power BI Service.
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -19,11 +41,17 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the Power BI projects I've worked on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
+🔹 Sales Performance Analysis
+
+A full-funnel dashboard analyzing regional sales performance, trends, and growth opportunities.
+
+📎 Read More
+---------------------------------------------------------------
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
@@ -33,6 +61,13 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
+🔹 Procurement Analysis
+
+Insightful procurement dashboard focusing on vendor performance, purchase frequency, and cost reduction.
+
+📎 Read More
+📄 <a href="17%20How%20to%20Present%20Data%20to%20Executives%20by%20XYZ.pdf">Download Full Report (PDF)</a>
+----------------------------------------------------------------------------------------------------------------------------------
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
