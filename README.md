@@ -92,7 +92,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(333) 53568723</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -100,7 +100,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://xyz/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://xyz/portfolio1/docs/xyz.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
